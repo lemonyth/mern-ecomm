@@ -1,6 +1,7 @@
 import Announcement from "./components/Announcement";
 import Slider from "./components/Slider";
 import Home from "./pages/Home";
+import Categories from "./components/Categories";
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <Announcement />
       <Home />
       <Slider />
+      <Categories />
     </div>
   );
 };
