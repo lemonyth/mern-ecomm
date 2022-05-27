@@ -1,4 +1,5 @@
 import img1 from "../src/images/img-1.png";
+import img2 from "../src/images/angela-vintage-tee.png";
 
 export const sliderItems = [
   {
@@ -52,7 +53,8 @@ export const popularProducts = [
   },
   {
     id: 2,
-    img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img: img2,
+    // img: "https://i.pinimg.com/736x/18/e6/74/18e674beb49397f094dc945b59e72666.jpg",
   },
   {
     id: 3,
@@ -72,7 +74,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://benscore.com/media/catalog/product/2/2/2217_arrow_jacket_forest.png",
   },
   {
     id: 8,
